@@ -1,12 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header"/>
+<!-- HEADER VERDE PERSONALIZADO -->
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001f1f,50:006400,100:00ff88&height=220&section=header&text=&fontColor=00ff88"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Pedro+Bosso" />
+<div align="center" style="background: linear-gradient(180deg, #001f1f 0%, #003300 100%); padding: 40px 0;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Pedro+Bosso" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%E2%80%94+SENAI+Americana" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%E2%80%94+SENAI+Americana" />
 
 </div>
 
