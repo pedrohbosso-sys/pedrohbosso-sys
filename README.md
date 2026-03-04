@@ -1,16 +1,100 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header"/>
 
-<!--
-**pedrohbosso-sys/pedrohbosso-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Pedro+Bosso" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%E2%80%94+SENAI+Americana" />
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Aluno do 3º ano do Ensino Médio  
+💻 Técnico em Desenvolvimento de Sistemas  
+🚀 Foco em desenvolvimento Back-End com Java  
+🌐 Desenvolvedor Front-End com JavaScript  
+📚 Em constante evolução e aprendizado  
+
+Tenho interesse tanto na construção de APIs robustas no Back-End quanto na criação de interfaces modernas e responsivas no Front-End, buscando sempre integrar organização, desempenho e boas práticas no desenvolvimento de software.
+
+---
+
+## 🚀 Tecnologias
+
+### 🔹 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=dart" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+---
+
+### 🔹 Estruturas e Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+---
+
+### 🔹 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+📌 Spring Boot  
+📌 Arquitetura de Software  
+📌 JavaScript (Front-End)  
+📌 Flutter com Android SDK  
+📌 Projeto de Software  
+
+---
+
+## 💼 Projetos em destaque
+
+🚀 Em breve: APIs REST completas com Spring Boot  
+🔗 Projeto Full Stack integrando Front-End e Back-End  
+📱 Aplicativo Mobile desenvolvido em Flutter  
+🧪 Testes e execução em emulador Android  
+
+---
+
+## 🎯 Objetivo
+
+Me tornar **Engenheiro de Software especializado em Back-End e Front-End**, aplicando boas práticas de engenharia, arquitetura limpa e desenvolvimento escalável.
+
+---
+
+## 🧩 Habilidades
+
+✔️ Comunicação clara  
+✔️ Trabalho em equipe  
+✔️ Organização  
+✔️ Metodologias Ágeis  
+
+---
+
+## 📫 Contato
+
+📩 Pedrohbosso@gmail.com 
+🔗 www.linkedin.com/in/pedro-henrique-bosso-834320384
