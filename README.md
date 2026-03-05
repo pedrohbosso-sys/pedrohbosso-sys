@@ -45,7 +45,6 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 <p>
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://skillicons.dev/icons?i=maven" />
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
