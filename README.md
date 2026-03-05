@@ -31,11 +31,15 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 ### 🔹 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=dart" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=java" width="30"/> Java
+  <br>
+  <img src="https://skillicons.dev/icons?i=python" width="30"/> Python
+  <br>
+  <img src="https://skillicons.dev/icons?i=javascript" width="30"/> JavaScript
+  <br>
+  <img src="https://skillicons.dev/icons?i=dart" width="30"/> Dart
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres" width="30"/> PostgreSQL
 </p>
 
 ---
@@ -43,9 +47,11 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 ### 🔹 Estruturas e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=spring" width="30"/> Spring Boot
+  <br>
+  <img src="https://skillicons.dev/icons?i=flutter" width="30"/> Flutter
+  <br>
+  <img src="https://skillicons.dev/icons?i=git" width="30"/> Git
 </p>
 
 ---
@@ -53,10 +59,11 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 ### 🔹 Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github" width="30"/> GitHub
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode" width="30"/> VS Code
+  <br>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="30"/> Android Studio
 </p>
 
 ---
