@@ -104,5 +104,5 @@ Me tornar **Engenheiro de Software especializado em Back-End e Front-End**, apli
 
 ## 📫 Contato
 
-📩 Pedrohbosso@gmail.com 
-🔗 www.linkedin.com/in/pedro-henrique-bosso-834320384
+[![gmail](https://img.shields.io/badge/Gmail-Pedrohbosso%40gmail.com-003300?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pedrohbosso@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-Pedro%20Henrique%20Bosso-001f1f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-bosso-834320384)
