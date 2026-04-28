@@ -40,6 +40,8 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
   <img src="https://skillicons.dev/icons?i=dart" width="30"/> Dart
   <br>
   <img src="https://skillicons.dev/icons?i=postgres" width="30"/> PostgreSQL
+  <br>
+  <img src="https://skillicons.dev/icons?i=php" width="30"/> PHP
 </p>
 
 ---
@@ -67,7 +69,6 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 </p>
 
 ---
-
 ## 📚 Atualmente estudando
 
 📌 Spring Boot  
@@ -75,15 +76,7 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 📌 JavaScript (Front-End)  
 📌 Flutter com Android SDK  
 📌 Projeto de Software  
-
----
-
-## 💼 Projetos em destaque
-
-🚀 Em breve: APIs REST completas com Spring Boot  
-🔗 Projeto Full Stack integrando Front-End e Back-End  
-📱 Aplicativo Mobile desenvolvido em Flutter  
-🧪 Testes e execução em emulador Android  
+📌 PHP
 
 ---
 
