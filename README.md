@@ -19,7 +19,7 @@
 🎓 Aluno do 3º ano do Ensino Médio  
 💻 Técnico em Desenvolvimento de Sistemas  
 🚀 Foco em desenvolvimento Back-End com Java  
-🌐 Desenvolvedor Front-End com JavaScript  
+🌐 Desenvolvedor Front-End com JavaScript e TypeScript 
 📚 Em constante evolução e aprendizado  
 
 Tenho interesse tanto na construção de APIs robustas no Back-End quanto na criação de interfaces modernas e responsivas no Front-End, buscando sempre integrar organização, desempenho e boas práticas no desenvolvimento de software.
