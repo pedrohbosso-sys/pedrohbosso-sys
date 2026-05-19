@@ -37,6 +37,8 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
   <br>
   <img src="https://skillicons.dev/icons?i=javascript" width="30"/> JavaScript
   <br>
+  <img src="https://skillicons.dev/icons?i=typescript" width="30"/> TypeScript
+  <br>
   <img src="https://skillicons.dev/icons?i=dart" width="30"/> Dart
   <br>
   <img src="https://skillicons.dev/icons?i=postgres" width="30"/> PostgreSQL
