@@ -75,7 +75,7 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 
 📌 Spring Boot  
 📌 Arquitetura de Software  
-📌 JavaScript (Front-End)  
+📌 TypeScript (Front-End)  
 📌 Flutter com Android SDK  
 📌 Projeto de Software  
 📌 PHP
