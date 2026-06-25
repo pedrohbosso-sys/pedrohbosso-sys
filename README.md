@@ -44,6 +44,8 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
   <img src="https://skillicons.dev/icons?i=postgres" width="30"/> PostgreSQL
   <br>
   <img src="https://skillicons.dev/icons?i=php" width="30"/> PHP
+  <br>
+  <img src="https://skillicons.dev/icons?i=angular" width="30"/> Angular
 </p>
 
 ---
